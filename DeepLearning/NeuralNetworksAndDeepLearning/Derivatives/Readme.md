@@ -1,1 +1,1 @@
-A brief notes on derivatives.
+A quick intro notes on derivatives.
